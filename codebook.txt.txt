@@ -1,0 +1,272 @@
+* SubjectID
+
+Subject ID
+
+* Activity
+
+Activity Name
+
+* tBodyAcc.mean...X
+
+Time of the Body accelerometer by average in X Direction 
+
+* tBodyAcc.mean...Y
+
+Time of the Body accelerometer by average in Y Direction 
+
+* tBodyAcc.mean...Z
+
+Time of the Body accelerometer by average in Z Direction 
+
+* tBodyAcc.std...X
+
+Time of the Body accelerometer by standard deviation in X Direction 
+
+* tBodyAcc.std...Y
+
+Time of the Body accelerometer by standard deviation in Y Direction 
+
+* tBodyAcc.std...Z
+
+Time of the Body accelerometer by standard deviation in Z Direction 
+
+* tGravityAcc.mean...X
+
+Time of the Gravity accelerometer by average in X Direction 
+
+* tGravityAcc.mean...Y
+
+Time of the Gravity accelerometer by average in Y Direction 
+
+* tGravityAcc.mean...Z
+
+Time of the Gravity accelerometer by average in Z Direction 
+
+* tGravityAcc.std...X
+
+Time of the Gravity accelerometer by standard deviation in X Direction 
+
+* tGravityAcc.std...Y
+
+Time of the Gravity accelerometer by standard deviation in Y Direction 
+
+* tGravityAcc.std...Z
+
+Time of the Gravity accelerometer by standard deviation in Z Direction 
+
+* tBodyAccJerk.mean...X
+
+Time of the Body accelerometer Jerk Signials by average in X Direction 
+
+* tBodyAccJerk.mean...Y
+
+Time of the Body accelerometer Jerk Signials by average in Y Direction 
+
+* tBodyAccJerk.mean...Z
+
+Time of the Body accelerometer Jerk Signials by average in Z Direction 
+
+* tBodyAccJerk.std...X
+
+Time of the Body accelerometer Jerk Signials by standard deviation in X Direction 
+
+* tBodyAccJerk.std...Y
+
+Time of the Body accelerometer Jerk Signials by standard deviation in Y Direction 
+
+* tBodyAccJerk.std...Z
+
+Time of the Body accelerometer Jerk Signials by standard deviation in Z Direction 
+
+* tBodyGyrok.mean...X
+
+Time of the Body gyroscope by average in X Direction 
+
+* tBodyGyro.mean...Y
+
+Time of the Body gyroscope by average in Y Direction 
+
+* tBodyGyro.mean...Z
+
+Time of the Body gyroscope by average in Z Direction 
+
+* tBodyGyro.std...X
+
+Time of the Body gyroscope by standard deviation in X Direction 
+
+* tBodyGyro.std...Y
+
+Time of the Body gyroscope by standard deviation in Y Direction 
+
+* tBodyGyro.std...Z
+
+Time of the Body gyroscope by standard deviation in Z Direction 
+
+* tBodyGyroJerk.mean...X
+
+Time of the Body gyroscope Jerk Signials by average in X Direction 
+
+* tBodyGyroJerk.mean...Y
+
+Time of the Body gyroscope Jerk Signials by average in Y Direction 
+
+* tBodyGyroJerk.mean...Z
+
+Time of the Body gyroscope Jerk Signials by average in Z Direction 
+
+* tBodyGyroJerk.std...X
+
+Time of the Body gyroscope Jerk Signials by standard deviation in X Direction 
+
+* tBodyGyroJerk.std...Y
+
+Time of the Body gyroscope Jerk Signials by standard deviation in Y Direction 
+
+* tBodyGyroJerk.std...Z
+
+Time of the Body gyroscope Jerk Signials by standard deviation in Z Direction 
+
+* tBodyAccMag.mean...X
+
+Time of the Body accelerometer Magnitude of Signials by average in X Direction 
+
+* tBodyAccMag.mean...Y
+
+Time of the Body accelerometer Magnitude of Signials by average in Y Direction 
+
+* tBodyAccMag.mean...Z
+
+Time of the Body accelerometer Magnitude of Signials by average in Z Direction 
+
+* tBodyAccMag.std...X
+
+Time of the Body accelerometer Magnitude of Signials by standard deviation in X Direction 
+
+* tBodyAccMag.std...Y
+
+Time of the Body accelerometer Magnitude of Signials by standard deviation in Y Direction 
+
+* tBodyAccMag.std...Z
+
+Time of the Body accelerometer Magnitude of Signials by standard deviation in Z Direction 
+
+* tBodyGyroMag.mean..
+
+Time of the Body gyroscope Magnitude of Signials mean..
+
+* tBodyGyroMag.std..
+
+Time of the Body gyroscope Magnitude of Signials std..
+
+* tBodyGyroJerkMag.mean..
+
+Time of the Body gyroscope Jerk Signials Magnitude of Signials .mean..
+
+* tBodyGyroJerkMag.std..
+
+Time of the Body gyroscope Jerk Signials Magnitude of Signials .std..
+
+* tGravityAccc.mean...X
+
+Time of the Gravity accelerometer by average in X Direction 
+
+* tGravityAccc.mean...Y
+
+Time of the Gravity accelerometer by average in Y Direction 
+
+* tGravityAccc.mean...Z
+
+Time of the Gravity accelerometer by average in Z Direction 
+
+* tGravityAccc.std...X
+
+Time of the Gravity accelerometer by standard deviation in X Direction 
+
+* tGravityAccc.std...Y
+
+Time of the Gravity accelerometer by standard deviation in Y Direction 
+
+* tGravityAccc.std...Z
+
+Time of the Gravity accelerometer by standard deviation in Z Direction 
+
+* fBodyAccJerk.mean...X
+
+Frequency of the Body accelerometer Jerk Signials by average in X Direction 
+
+* fBodyAccJerk.mean...Y
+
+Frequency of the Body accelerometer Jerk Signials by average in Y Direction 
+
+* fBodyAccJerk.mean...Z
+
+Frequency of the Body accelerometer Jerk Signials by average in Z Direction 
+
+* fBodyAccJerk.std...X
+
+Frequency of the Body accelerometer Jerk Signials by standard deviation in X Direction 
+
+* fBodyAccJerk.std...Y
+
+Frequency of the Body accelerometer Jerk Signials by standard deviation in Y Direction 
+
+* fBodyAccJerk.std...Z
+
+Frequency of the Body accelerometer Jerk Signials by standard deviation in Z Direction 
+
+* fBodyGyro.mean...X
+
+Frequency of the Body gyroscope by average in X Direction 
+
+* fBodyGyro.mean...Y
+
+Frequency of the Body gyroscope by average in Y Direction 
+
+* fBodyGyro.mean...Z
+
+Frequency of the Body gyroscope by average in Z Direction 
+
+* fBodyGyro.std...X
+
+Frequency of the Body gyroscope by standard deviation in X Direction 
+
+* fBodyGyro.std...Y
+
+Frequency of the Body gyroscope by standard deviation in Y Direction 
+
+* fBodyGyro.std...Z
+
+Frequency of the Body gyroscope by standard deviation in Z Direction 
+
+* fBodyAccMag.mean..
+
+Frequency of the Body accelerometer Magnitude of Signials by average
+
+* fBodyAccMag.std..
+
+Frequency of the Body accelerometer Magnitude of Signials by standard deviation
+
+* fBodyBodyAccJerkMag.mean..
+
+Frequency of the Body Bodyaccelerometer Jerk Signials Magnitude of Signials by average
+
+* fBodyBodyAccJerkMag.std..
+
+Frequency of the Body Bodyaccelerometer Jerk Signials Magnitude of Signials by standard deviation
+
+* fBodyBodyGyroMag.mean..
+
+Frequency of the Body Bodygyroscope Magnitude of Signials by average
+
+* fBodyBodyGyroMag.std..
+
+Frequency of the Body Bodygyroscope Magnitude of Signials by standard deviation
+
+* fBodyBodyGyroJerkMag.mean..
+
+Frequency of the Body Bodygyroscope Jerk Signials Magnitude of Signials by average
+
+* fBodyBodyGyroJerkMag.std..
+
+Frequency of the Body Bodygyroscope Jerk Signials Magnitude of Signials by standard deviation
+
